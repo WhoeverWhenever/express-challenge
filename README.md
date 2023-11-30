@@ -1,10 +1,10 @@
 Tested via Postman
 
-============
+=============
 
 Purpose of this application: learn about development of web-application server-side.
 
-======================================================
+=======================================================
 
 How to install it?
 
@@ -16,7 +16,7 @@ Manual installation:
 - for better experience you should also install nodemon using "npm i nodemon --save-dev";
 - create server.js file.
 
-============================================================
+=============================================================
 
 How to run it?
 
